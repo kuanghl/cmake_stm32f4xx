@@ -1,0 +1,5 @@
+/home/kuanghl/stm/stm32f429_C_examples/build/CMakeFiles/test.dir
+/home/kuanghl/stm/stm32f429_C_examples/build/CMakeFiles/flash.dir
+/home/kuanghl/stm/stm32f429_C_examples/build/CMakeFiles/openocd.dir
+/home/kuanghl/stm/stm32f429_C_examples/build/CMakeFiles/edit_cache.dir
+/home/kuanghl/stm/stm32f429_C_examples/build/CMakeFiles/rebuild_cache.dir

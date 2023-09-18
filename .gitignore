@@ -1,0 +1,8 @@
+obj/*
+dep/*
+*.bin
+*.elf
+*.lst
+*.map
+.cortex-debug.peripherals.state.json
+.cortex-debug.registers.state.json
